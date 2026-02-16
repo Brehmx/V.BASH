@@ -16,3 +16,5 @@ public class User {
     public static Iterable<Schedule> getSchedules() { return null; }
     //added this
 }
+
+//This be a comment by the Git-Master
