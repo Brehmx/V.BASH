@@ -14,4 +14,5 @@ public class User {
 
     public static void newSchedule() { return; }
     public static Iterable<Schedule> getSchedules() { return null; }
+    //added this
 }
